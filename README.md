@@ -1,7 +1,7 @@
 
 Prime number using Java 
 
-import java.util.*; 
+import java.util.*;
 class Test{ 
     public static boolean isPrime(int n) { 
     if (n%2==0) return false; 
